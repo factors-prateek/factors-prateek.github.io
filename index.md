@@ -1,0 +1,1 @@
+https://healthchecks.io/badge/5cdf8090-efef-4724-bdba-0a1993/7BH48tYJ-2/dashboard-caching.svg
